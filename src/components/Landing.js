@@ -106,7 +106,6 @@ margin: 0 auto;
 height: 100vh;
 position: relative;
 width: 100%;
-max-width: 1170px;
 
 .ref-one {
   padding-bottom: 1.2em;
