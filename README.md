@@ -3,7 +3,7 @@
 
 ## Overview
 
-This portfolio contains some cool project I have been working on recently.
+This portfolio contains some cool projects I have been working on recently.
 
 ### Links
 
