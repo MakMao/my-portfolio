@@ -148,7 +148,7 @@ width: 100%;
 }
 
 .progress-container {
-  height: 50px; 
+  height: 49px; 
 }
 
 .progress {
