@@ -48,7 +48,7 @@ const Landing = () => {
     },[])
     new Typed(el.current, {
       strings: ['Front-end developer.', 'An <strong>enthusiastic aspiring</strong> front-end developer.'],
-      startDelay: 900,
+      startDelay: 1200,
       typeSpeed: 10,
       backDelay: 200,
       backSpeed: 20,
@@ -153,7 +153,7 @@ width: 100%;
 
 .progress {
   transform: translateY(100%);
-  transition-delay: 3.5s;
+  transition-delay: 3.8s;
 }
 
 .progress-text {
