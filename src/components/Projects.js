@@ -30,7 +30,7 @@ const Projects = () => {
                 </a>
               </div>
               <div className="project-hover">
-                <a target="_blank" href="https://testing-healthy-wealthy.netlify.app/" className="github-link" rel='noreferrer'>
+                <a target="_blank" href="https://the-protein-store.netlify.app/" className="github-link" rel='noreferrer'>
                   <VisibilityIcon/>
                   <p>Live demo</p>
                 </a>
@@ -66,7 +66,7 @@ const Projects = () => {
           <img src={dotyeti} alt="" className="main-img" />
             <div className='content'>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://the-protein-store.netlify.app" rel='noreferrer'>
+                <a className="github-link" target="_blank" href="https://the-protein-store.netlify.app" >
                   <GitHubIcon/>
                   <p>GitHub repository</p>
                 </a>
