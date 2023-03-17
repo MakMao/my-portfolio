@@ -61,7 +61,7 @@ const Contact = () => {
                   <TextField className="test" label="Name" name="name" type="text"/>
                 </div>
                 <div className="input-email">
-                <TextField label="Email" name="email" type="email" name='email'/>
+                <TextField label="Email" name="email" type="email"/>
                   </div>
               </div>
               <div >

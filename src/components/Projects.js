@@ -24,13 +24,13 @@ const Projects = () => {
           <img src={ecommerce} alt="" className="main-img" />
             <div className='content'>
               <div className="project-hover">
-                <a href="https://github.com/MakMao/healthy_wealthy" target="_blank" className="github-link">
+                <a href="https://github.com/MakMao/healthy_wealthy" target="_blank" className="github-link" rel='noreferrer'>
                   <GitHubIcon/>
                   <p>GitHub repository</p>
                 </a>
               </div>
               <div className="project-hover">
-                <a target="_blank" href="https://testing-healthy-wealthy.netlify.app/" className="github-link">
+                <a target="_blank" href="https://testing-healthy-wealthy.netlify.app/" className="github-link" rel='noreferrer'>
                   <VisibilityIcon/>
                   <p>Live demo</p>
                 </a>
@@ -45,13 +45,13 @@ const Projects = () => {
           <img src={github} alt="" className="main-img" />
             <div className='content'>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://github.com/MakMao/github-clone-react">
+                <a className="github-link" target="_blank" href="https://github.com/MakMao/github-clone-react" rel='noreferrer'>
                   <GitHubIcon/>
                   <p>GitHub repository</p>
                 </a>
               </div>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://makmao-github.netlify.app/">
+                <a className="github-link" target="_blank" href="https://makmao-github.netlify.app/" rel='noreferrer'>
                   <VisibilityIcon/>
                   <p>Live demo</p>
                 </a>
