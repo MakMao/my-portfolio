@@ -7,6 +7,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import VisibilityIcon from '@mui/icons-material/Visibility';
 import quiz from '../images/quiz.png'
 import woordle from '../images/woordle-img-project-removebg-preview.png'
+import multi from '../images/multi-form.png'
 
 const Projects = () => {
 
@@ -66,7 +67,7 @@ const Projects = () => {
           <img src={dotyeti} alt="" className="main-img" />
             <div className='content'>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://the-protein-store.netlify.app" >
+                <a className="github-link" target="_blank" href="https://the-protein-store.netlify.app" rel='noreferrer'>
                   <GitHubIcon/>
                   <p>GitHub repository</p>
                 </a>
@@ -115,6 +116,27 @@ const Projects = () => {
               </div>
               <div className="project-hover">
                 <a className="github-link" target="_blank" href="https://wordle-makmao.netlify.app/"rel='noreferrer' >
+                  <VisibilityIcon/>
+                  <p>Live demo</p>
+                </a>
+              </div>
+              </div>
+          </div>
+        </div>
+
+        <div data-aos="fade-up-left" className="project" >
+          <h2>Multi Step Form</h2>
+          <div className='img-container'>
+          <img src={multi} alt="" className="main-img" />
+            <div className='content'>
+              <div className="project-hover">
+                <a className="github-link" target="_blank" href="https://github.com/MakMao/multi-step-form" rel='noreferrer'>
+                  <GitHubIcon/>
+                  <p>GitHub repository</p>
+                </a>
+              </div>
+              <div className="project-hover">
+                <a className="github-link" target="_blank" href="https://makmao-multi-form.netlify.app/"rel='noreferrer' >
                   <VisibilityIcon/>
                   <p>Live demo</p>
                 </a>
