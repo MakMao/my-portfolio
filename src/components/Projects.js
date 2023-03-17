@@ -66,13 +66,13 @@ const Projects = () => {
           <img src={dotyeti} alt="" className="main-img" />
             <div className='content'>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://github.com/MakMao/text-overlay-tool-v3">
+                <a className="github-link" target="_blank" href="https://the-protein-store.netlify.app" rel='noreferrer'>
                   <GitHubIcon/>
                   <p>GitHub repository</p>
                 </a>
               </div>
               <div className="project-hover">
-                <a className="github-link" target='_blank' href="https://text-overlay-tool.netlify.app/">
+                <a className="github-link" target='_blank' href="https://text-overlay-tool.netlify.app/" rel='noreferrer'>
                   <VisibilityIcon/>
                   <p>Live demo</p>
                 </a>
@@ -87,13 +87,13 @@ const Projects = () => {
           <img src={quiz} alt="" className="main-img" />
             <div className='content'>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://github.com/MakMao/react-quiz">
+                <a className="github-link" target="_blank" href="https://github.com/MakMao/react-quiz" rel='noreferrer'>
                   <GitHubIcon/>
                   <p>GitHub repository</p>
                 </a>
               </div>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://makmao-quiz.netlify.app/">
+                <a className="github-link" target="_blank" href="https://makmao-quiz.netlify.app/" rel='noreferrer'>
                   <VisibilityIcon/>
                   <p>Live demo</p>
                 </a>
@@ -108,13 +108,13 @@ const Projects = () => {
           <img src={woordle} alt="" className="main-img" />
             <div className='content'>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://github.com/MakMao/woordle">
+                <a className="github-link" target="_blank" href="https://github.com/MakMao/woordle" rel='noreferrer'>
                   <GitHubIcon/>
                   <p>GitHub repository</p>
                 </a>
               </div>
               <div className="project-hover">
-                <a className="github-link" target="_blank" href="https://wordle-makmao.netlify.app/">
+                <a className="github-link" target="_blank" href="https://wordle-makmao.netlify.app/"rel='noreferrer' >
                   <VisibilityIcon/>
                   <p>Live demo</p>
                 </a>
