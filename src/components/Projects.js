@@ -25,7 +25,7 @@ const Projects = () => {
           <img src={ecommerce} alt="" className="main-img" />
             <div className='content'>
               <div className="project-hover">
-                <a href="https://github.com/MakMao/healthy_wealthy" target="_blank" className="github-link" rel='noreferrer'>
+                <a href="https://the-protein-store.netlify.app/products" target="_blank" className="github-link" rel='noreferrer'>
                   <GitHubIcon/>
                   <p>GitHub repository</p>
                 </a>
